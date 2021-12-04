@@ -1,0 +1,9 @@
+/* Reset css */
+.col-md-12
+{
+    padding: 0;
+}
+
+.my_font{
+    text-align: justify;
+}
